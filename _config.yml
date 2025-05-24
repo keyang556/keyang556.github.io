@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "ken"
+title: "小愛的部落格"
 email: "lindsay714322@protonmail.com"
 description: "分享任何想說的東西"
 twitter_username: "YNR2og2y8eNVYRA"
